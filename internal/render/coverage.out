@@ -1,0 +1,25 @@
+mode: set
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:22.40,24.2 1 1
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:26.84,32.2 5 1
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:35.105,38.18 2 1
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:38.18,40.3 1 1
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:40.8,42.3 1 0
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:44.2,46.9 2 1
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:46.9,49.3 1 1
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:51.2,57.16 4 1
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:57.16,59.3 1 0
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:62.2,64.16 2 1
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:64.16,68.3 2 0
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:70.2,70.12 1 1
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:73.67,79.16 3 1
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:79.16,81.3 1 0
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:84.2,84.29 1 1
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:84.29,88.17 3 1
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:88.17,90.4 1 0
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:92.3,94.17 2 1
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:94.17,96.4 1 0
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:98.3,98.23 1 1
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:98.23,101.18 2 1
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:101.18,103.5 1 0
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:106.3,106.21 1 1
+github.com/GeorgeTheBrick/bookings/internal/render/render.go:109.2,109.21 1 1

@@ -1,0 +1,22 @@
+mode: set
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:24.47,28.2 1 1
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:31.33,33.2 1 1
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:36.67,41.2 3 1
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:44.68,57.2 5 1
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:60.74,69.2 4 1
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:72.78,74.16 2 1
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:74.16,77.3 2 0
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:79.2,92.19 6 1
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:92.19,102.3 4 0
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:104.2,106.66 2 1
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:110.71,112.2 1 1
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:115.69,117.2 1 1
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:120.75,122.2 1 1
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:125.79,130.2 3 1
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:138.79,145.16 3 1
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:145.16,147.3 1 0
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:149.2,150.14 2 1
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:154.70,156.2 1 1
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:159.81,162.9 2 1
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:162.9,168.3 4 1
+github.com/GeorgeTheBrick/bookings/internal/handlers/handlers.go:170.2,177.4 4 0
